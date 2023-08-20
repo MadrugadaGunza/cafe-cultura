@@ -1,0 +1,11 @@
+.newslatter{display: flex; justify-content: space-between; padding: 2rem 5rem; color: #fff;
+    margin: auto; background-color:  #BA814B;}
+
+.newslattering p{margin-bottom: .5rem;}
+
+.newslatter div{width: 12rem;}
+
+.newslatter-redes{display: flex; flex-direction: column;}
+.rede{display: flex; margin-bottom: .5rem;}
+.rede p{margin-left: .4rem;}
+.newslatter-redes a{color: #fff; text-decoration: none; margin-left: .4em;}

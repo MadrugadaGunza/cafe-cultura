@@ -1,0 +1,5 @@
+.cliente{margin: 5rem 0; padding: 0 5rem;}
+.cliente-cards{display: flex; justify-content: center;}
+.cliente-title{text-align: center; font-size: 26pt; margin-bottom: 1rem;}
+.cliente .card{width: 18rem; text-align: center; padding: 1rem .5rem;}
+.card .avatar-cliente{width: 5rem; border-radius: 50%; margin: 1rem 0;}

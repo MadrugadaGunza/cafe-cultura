@@ -1,0 +1,7 @@
+.hero{display: flex; padding: 1rem 5rem 4rem 5rem; background-color: #161712; color: #fff;
+    justify-content: space-between; align-items: center;}
+.hero-title{color:#BA814B; margin-bottom: .5rem; font-size: 26pt;}
+.hero-description{width: 40rem; text-align: justify; font-size: 11.5pt;}
+.hero-button{background-color: #BA814B; padding: .5rem 1rem; border: none; margin-top: .5rem;
+    color: #fff; border-radius: 5px; cursor: pointer;}
+.hero-button:hover{background-color: #B29060;}

@@ -1,0 +1,8 @@
+.navbar{background-color: #161712; color: #fff; display: flex; justify-content: space-between; align-items: center; 
+    padding: 1rem 5rem;}
+.logo {width: 4rem; height: 3.5rem;}
+.nav-list{display: flex; list-style: none;}
+.nav-item{margin: .5rem; font-size: 10pt; color: #BA814B;}
+.nav-item:hover{cursor: pointer; color: #B29060;}
+i{margin: .5rem; font-size: 11pt; color: #BA814B;}
+i:hover{cursor: pointer; color: #B29060;}

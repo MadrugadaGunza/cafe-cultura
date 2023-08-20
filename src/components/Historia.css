@@ -1,0 +1,8 @@
+.historia{display: flex; margin: 2rem auto; padding: .5rem 5rem; justify-content: space-between;}
+.historia-img{width: 100rem; margin-right: 1rem;}
+.historia-image{width: 100%; border-radius: 5px;}
+.historia-title{color: #161712; font-size: 26pt; margin-bottom: .4rem;}
+.historia-description{font-size: 11pt; text-align: justify; width: 38rem; margin-bottom: 1rem;}
+.historia-button{background-color: #BA814B; padding: .5rem 1rem; border: none; margin-top: .5rem;
+    color: #fff; border-radius: 5px; cursor: pointer;}
+.historia-button:hover{background-color: #B29060;}
