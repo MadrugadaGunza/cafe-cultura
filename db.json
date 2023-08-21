@@ -13,6 +13,34 @@
             "preco": 10000,
             "categoria": "popular",
             "imagem": "https://m.media-amazon.com/images/I/51q-YPZXUZL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Blue Mountain",
+            "preco": 15000,
+            "categoria": "popular",
+            "imagem": "https://www.malongo.com/boutique/2249-product_default/cafe-moulu-blue-mountain-de-la-jamaique.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Ethiopian Yirgacheffe",
+            "preco": 15700,
+            "categoria": "popular",
+            "imagem": "https://m.media-amazon.com/images/I/51q-YPZXUZL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Colombian Supremo",
+            "preco": 25000,
+            "categoria": "popular",
+            "imagem": "https://m.media-amazon.com/images/I/51q-YPZXUZL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "Hawaiian Kona",
+            "preco": 55000,
+            "categoria": "popular",
+            "imagem": "https://m.media-amazon.com/images/I/51q-YPZXUZL._SX300_SY300_QL70_FMwebp_.jpg"
         }
     ]
 }
