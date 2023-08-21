@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Nescafé",
+            "preco": 1000,
+            "categoria": "popular",
+            "imagem": "https://www.spar.pt/images/thumbs/0005551_cafe-nescafe-classico-10x2gr_550.jpeg"
+        },
+        {
+            "id": 2,
+            "nome": "Kopi Luwak",
+            "preco": 10000,
+            "categoria": "popular",
+            "imagem": "https://m.media-amazon.com/images/I/51q-YPZXUZL._SX300_SY300_QL70_FMwebp_.jpg"
+        }
+    ]
+}
