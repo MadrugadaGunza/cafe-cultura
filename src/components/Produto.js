@@ -27,7 +27,7 @@ const Produto = () => {
                     <div className='card-body'>
                         <h5 className='card-title'>CAFÉ PURO</h5>
                         <div className='card-buttons'>
-                            <p>$25</p>
+                            <p>$50</p>
                             <button className='card-btn'>ADICIONAR AO CARRINHO</button>
                         </div>
                     </div>
