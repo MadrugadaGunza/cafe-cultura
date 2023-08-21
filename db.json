@@ -2,7 +2,7 @@
     "produtos": [
         {
             "id": 1,
-            "nome": "Nescafé",
+            "nome": "Nescafé Clássico",
             "preco": 1000,
             "categoria": "popular",
             "imagem": "https://www.spar.pt/images/thumbs/0005551_cafe-nescafe-classico-10x2gr_550.jpeg"

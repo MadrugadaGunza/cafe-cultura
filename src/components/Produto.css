@@ -9,12 +9,12 @@
 .card-header .card-image{height: 100%;}
 
 .card-body{margin: .5rem;}
-.card-body .card-title{font-size: 12pt; margin: .5rem 0; text-transform: uppercase; margin: .5rem 0;}
+.card-body .card-title{font-size: 12pt; margin: .5rem 0; text-transform: uppercase; margin: .7rem 0;}
 .card-buttons{display: flex; justify-content: space-between;}
-.card-buttons p{background-color: #BA814B; padding: .2rem .53rem; color: #fff; border-radius: 5px;
-    text-align: center;}
-.card-buttons .card-btn{border: none; border:1px solid #BA814B; padding: .2rem; color: #000; 
-    border-radius: 5px; background-color: #fff;}
+.card-buttons p{background-color: #BA814B; padding: .3rem .5rem .2rem .5rem; color: #fff; border-radius: 5px;
+    text-align: center; font-size: 10pt;}
+.card-buttons .card-btn{border: none; border: 1.4px solid #BA814B; padding: .2rem; color: #000; 
+    border-radius: 5px; background-color: #fff; font-size: 10pt;}
     
 .card-buttons .card-btn:hover{border:1px solid #B29060; background-color: #BA814B; color: #fff;
     cursor: pointer;}
