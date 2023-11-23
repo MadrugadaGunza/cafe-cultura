@@ -1,20 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './Produto.css';
-import axios from 'axios';
+import { useSelector } from 'react-redux';
 
 const Produto = () => {
 
-    const [products, setProdutos] = useState([]);
-
-    function fetchDataProdutos() {
-        axios.get(`http://localhost:5000/produtos`)
-            .then((response) => { setProdutos(response.data); })
-            .catch((error) => { console.log(error); })
-    }
-
-    useEffect(() => {
-        fetchDataProdutos();
-    }, [])
+    const products = useSelector((state) => state.products)
 
     return (
         <div className='produtos'>
@@ -41,4 +31,4 @@ const Produto = () => {
     )
 }
 
-export default Produto
+export default Produto;
