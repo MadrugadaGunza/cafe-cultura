@@ -9,7 +9,6 @@ function Header() {
                 <nav className='navbar'>
                     <div className='logo'>
                         <img src={Logo} alt='logo' className='logo' />
-                        {/* <i class="fas fa-coffee"></i> */}
                     </div>
 
                     <ul className='nav-list'>

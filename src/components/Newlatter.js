@@ -14,10 +14,6 @@ const Newlatter = () => {
                     <FaInstagram />
                     <a href='#'>Instagram</a>
                 </div>
-                {/* <div className='rede'>
-                    <FaTiktok />
-                    <a href='#'>TikTok</a>
-                </div> */}
                 <div className='rede'>
                     <FaYoutube />
                     <a href='#'>Youtube</a>
@@ -48,4 +44,4 @@ const Newlatter = () => {
     )
 }
 
-export default Newlatter
+export default Newlatter;

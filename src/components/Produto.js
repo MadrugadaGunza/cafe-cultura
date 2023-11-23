@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import ImageCard from '../images/imagem-card.png';
 import './Produto.css';
 import axios from 'axios';
 
@@ -22,7 +21,7 @@ const Produto = () => {
             <h1 className='produtos-title'>NOSSOS PRODUTOS POPULARES</h1>
             <div className='produtos-cards'>
                 {
-                    products.map((produto, index) => (
+                    products.map((produto) => (
                         <div className='card' key={produto.id}>
                             <div className='card-header'>
                                 <img src={produto.imagem} className='card-image' alt='Imagem do produto(Café)' />
