@@ -30,7 +30,7 @@ const Newlatter = () => {
                 <p>Termo de Uso</p>
             </div>
 
-            <div className='nweslatter-contacto'>
+            <div className='newslatter-contacto'>
                 <div className='rede'>
                     <FaMapMarkerAlt />
                     <p>Morro Bento</p>

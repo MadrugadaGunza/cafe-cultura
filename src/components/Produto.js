@@ -9,7 +9,7 @@ const Produto = () => {
 
     function fetchDataProdutos() {
         axios.get(`http://localhost:5000/produtos`)
-            .then(response => { setProdutos(response.data); })
+            .then((response) => { setProdutos(response.data); })
             .catch((error) => { console.log(error); })
     }
 
@@ -23,7 +23,7 @@ const Produto = () => {
             <div className='produtos-cards'>
                 {
                     products.map((produto, index) => (
-                        <div className='card'>
+                        <div className='card' key={produto.id}>
                             <div className='card-header'>
                                 <img src={produto.imagem} className='card-image' alt='Imagem do produto(Café)' />
                             </div>

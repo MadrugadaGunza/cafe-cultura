@@ -20,7 +20,7 @@ function Header() {
                     </ul>
 
                     <div className='nav-icons'>
-                        <i class="fas fa-shopping-cart"></i>
+                        <i className="fas fa-shopping-cart"></i>
                         <i className='fas fa-search'></i>
                     </div>
                 </nav>

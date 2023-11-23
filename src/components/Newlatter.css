@@ -9,3 +9,7 @@
 .rede{display: flex; margin-bottom: .5rem;}
 .rede p{margin-left: .4rem;}
 .newslatter-redes a{color: #fff; text-decoration: none; margin-left: .4em;}
+
+.newslatter-apoio p{margin-bottom: .5rem; text-align: center;}
+
+.newslatter-contacto .rede p{text-align: right;}
